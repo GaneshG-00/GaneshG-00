@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaneshG
 - 👀 Flutter & Swift Developer
-- 🌱 pursuing my diploma in computer engineering...
+- 🌱 Qualification - diploma in computer engineering + Bachelor of Computer Application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ganesh.g30.3.2003@gmail.com
 - 🔗 Personal Portfolio website.....https://ganeshg-00.github.io/ganeshgportfolio/
