@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GaneshG
-- 👀 Flutter Developer
+- 👀 Flutter & Swift Developer
 - 🌱 pursuing my diploma in computer engineering...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ganesh.g30.3.2003@gmail.com
